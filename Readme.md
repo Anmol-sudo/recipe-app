@@ -2,7 +2,7 @@
   <!-- You can use a logo here if you have one -->
   <!-- <img src="path/to/your/logo.png" alt="Project Logo" width="100" /> -->
 
-  <h1 align="center">Project Title</h1>
+  <h1 align="center">Recipe App</h1>
 
   <p align="center">
     Create intuitive recipe with AI
