@@ -5,35 +5,16 @@
   <h1 align="center">Project Title</h1>
 
   <p align="center">
-    A brief one-sentence description of what your project does.
+    Create intuitive recipe with AI
     <br />
-    <a href="https://github.com/your_username/your_repository"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://your_project_demo_link.com">View Demo</a>
-    ·
-    <a href="https://github.com/your_username/your_repository/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/your_username/your_repository/issues">Request Feature</a>
   </p>
-</div>
-
-<!-- Badges -->
-<div align="center">
-  <!-- Replace with your actual badges -->
-  <a href="https://github.com/your_username/your_repository/stargazers"><img src="https://img.shields.io/github/stars/your_username/your_repository?style=for-the-badge" alt="Stars"></a>
-  <a href="https://github.com/your_username/your_repository/network/members"><img src="https://img.shields.io/github/forks/your_username/your_repository?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/your_username/your_repository/issues"><img src="https://img.shields.io/github/issues/your_username/your_repository?style=for-the-badge" alt="Issues"></a>
-  <a href="https://github.com/your_username/your_repository/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your_username/your_repository?style=for-the-badge" alt="License"></a>
 </div>
 
 ---
 
 ## 📖 About The Project
 
-[![Product Screenshot][product-screenshot]](https://your_project_demo_link.com)
-
-Here's a more detailed description of your project. Explain the purpose, the problem it solves, and why you built it. You can also mention any unique features and the technologies you used.
+Make Recipes using Gemini
 
 ### ✨ Features
 
@@ -43,12 +24,8 @@ Here's a more detailed description of your project. Explain the purpose, the pro
 
 ### 🛠️ Built With
 
-This section should list any major frameworks, libraries, or tools you used to build your project.
 
-*   [![React][React.js]][React-url]
-*   [![Node.js][Node.js]][Node-url]
-*   [![Express.js][Express.js]][Express-url]
-*   [![MongoDB][MongoDB]][Mongo-url]
+*   Next.js
 
 ---
 
